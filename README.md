@@ -1,6 +1,9 @@
+# Simple Hand Detection
+
+## Descripstion
 This project uses the simple morphological and color slicing techniques for detecting the hand in the image.
 
-* Samples:
+## Samples
 
 <img src="r1.jpg" height="450">
 <img src="r2.jpg" height="450">
